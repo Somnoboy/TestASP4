@@ -4,7 +4,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Craig\source\repos\TestASP4\TestASP4\bin\Release\Publish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Users\Craig\source\repos\TestASP4\TestASP4\PublishFolder</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="About.aspx">
@@ -17,10 +17,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>06/20/2020 01:17:52</publishTime>
+      <publishTime>06/20/2020 01:28:17</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>06/20/2020 01:17:52</publishTime>
+      <publishTime>06/20/2020 01:28:17</publishTime>
     </File>
     <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
       <publishTime>03/15/2019 11:59:54</publishTime>
@@ -200,13 +200,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/11/2014 14:26:04</publishTime>
     </File>
     <File Include="bin/TestASP4.dll">
-      <publishTime>06/20/2020 01:17:46</publishTime>
+      <publishTime>06/20/2020 01:28:12</publishTime>
     </File>
     <File Include="bin/TestASP4.pdb">
-      <publishTime>06/20/2020 01:17:46</publishTime>
+      <publishTime>06/20/2020 01:28:12</publishTime>
     </File>
     <File Include="bin/WebForms_Basic.xml">
-      <publishTime>06/20/2020 01:17:46</publishTime>
+      <publishTime>06/20/2020 01:28:12</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 12:57:34</publishTime>
@@ -266,10 +266,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>06/20/2020 01:15:44</publishTime>
     </File>
     <File Include="My Project/PublishProfiles/FolderProfile.pubxml.user">
-      <publishTime>06/20/2020 01:17:26</publishTime>
+      <publishTime>06/20/2020 01:17:54</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>06/20/2020 01:17:47</publishTime>
+      <publishTime>06/20/2020 01:28:13</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>06/20/2020 01:15:44</publishTime>
